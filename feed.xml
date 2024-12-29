@@ -3,7 +3,7 @@
     <title>Huy Phuong&#x27;s Blog</title>
     <link href="https://github.com/HuyPhuongVN/PhuongBlog.git/feed.xml" rel="self" />
     <link href="https://github.com/HuyPhuongVN/PhuongBlog.git" />
-    <updated>2024-12-29T13:36:40+07:00</updated>
+    <updated>2024-12-29T17:11:53+07:00</updated>
     <author>
         <name>Trần Huy Phương</name>
     </author>
@@ -55,6 +55,17 @@
         <content type="html">
             <![CDATA[
                 <p>Tôi là Trần Huy Phương, sinh viên năm 4 tại Đại học HUTECH, đam mê lập trình game và luôn mong muốn nâng cao kỹ năng trong lĩnh vực này. Tôi tạo blog này để chia sẻ kiến thức, dự án và hành trình phát triển nghề nghiệp trong lập trình game, đồng thời kết nối với cộng đồng và tìm kiếm cơ hội nghề nghiệp.</p>
+<p> </p>
+<p>Những thành tựu mình đạt được trong 4 năm đại học:</p>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
+<figure class="gallery__item"><a href="https://github.com/HuyPhuongVN/PhuongBlog.git/media/posts/11/gallery/Screenshot-2024-12-29-123915.png" data-size="1054x816"><img loading="lazy" src="https://github.com/HuyPhuongVN/PhuongBlog.git/media/posts/11/gallery/Screenshot-2024-12-29-123915-thumbnail.png" alt="" width="720" height="557"></a></figure>
+<figure class="gallery__item"><a href="https://github.com/HuyPhuongVN/PhuongBlog.git/media/posts/11/gallery/chungnhan_47012.png" data-size="3371x2420"><img loading="lazy" src="https://github.com/HuyPhuongVN/PhuongBlog.git/media/posts/11/gallery/chungnhan_47012-thumbnail.png" alt="" width="720" height="517"></a></figure>
+<figure class="gallery__item"><a href="https://github.com/HuyPhuongVN/PhuongBlog.git/media/posts/11/gallery/chungnhan_49063.png" data-size="3371x2420"><img loading="lazy" src="https://github.com/HuyPhuongVN/PhuongBlog.git/media/posts/11/gallery/chungnhan_49063-thumbnail.png" alt="" width="720" height="517"></a></figure>
+<figure class="gallery__item"><a href="https://github.com/HuyPhuongVN/PhuongBlog.git/media/posts/11/gallery/chungnhan_75110.png" data-size="3371x2420"><img loading="lazy" src="https://github.com/HuyPhuongVN/PhuongBlog.git/media/posts/11/gallery/chungnhan_75110-thumbnail.png" alt="" width="720" height="517"></a></figure>
+<figure class="gallery__item"><a href="https://github.com/HuyPhuongVN/PhuongBlog.git/media/posts/11/gallery/Tran-Huy-Phuong.jpg" data-size="3503x2479"><img loading="lazy" src="https://github.com/HuyPhuongVN/PhuongBlog.git/media/posts/11/gallery/Tran-Huy-Phuong-thumbnail.jpg" alt="" width="720" height="509"></a></figure>
+<figure class="gallery__item"><a href="https://github.com/HuyPhuongVN/PhuongBlog.git/media/posts/11/gallery/chungnhan_91130.png" data-size="3371x2420"><img loading="lazy" src="https://github.com/HuyPhuongVN/PhuongBlog.git/media/posts/11/gallery/chungnhan_91130-thumbnail.png" alt="" width="720" height="517"></a></figure>
+</div></div>
+<p> </p>
             ]]>
         </content>
     </entry>

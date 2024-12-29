@@ -3,12 +3,61 @@
     <title>Huy Phuong&#x27;s Blog</title>
     <link href="https://github.com/HuyPhuongVN/PhuongBlog.git/feed.xml" rel="self" />
     <link href="https://github.com/HuyPhuongVN/PhuongBlog.git" />
-    <updated>2024-12-29T12:47:12+07:00</updated>
+    <updated>2024-12-29T15:00:21+07:00</updated>
     <author>
         <name>Trần Huy Phương</name>
     </author>
     <id>https://github.com/HuyPhuongVN/PhuongBlog.git</id>
 
+    <entry>
+        <title>suck a dick</title>
+        <author>
+            <name>Trần Huy Phương</name>
+        </author>
+        <link href="https://github.com/HuyPhuongVN/PhuongBlog.git/posts/suck-a-dick/"/>
+        <id>https://github.com/HuyPhuongVN/PhuongBlog.git/posts/suck-a-dick/</id>
+
+        <updated>2024-12-29T15:00:05+07:00</updated>
+            <summary>
+                <![CDATA[
+                    sdadawfawfwa wrwrfafrw
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>sdadawfawfwa wrwrfafrw</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Mục lục</title>
+        <author>
+            <name>Trần Huy Phương</name>
+        </author>
+        <link href="https://github.com/HuyPhuongVN/PhuongBlog.git/posts/muc-luc/"/>
+        <id>https://github.com/HuyPhuongVN/PhuongBlog.git/posts/muc-luc/</id>
+
+        <updated>2024-12-29T13:16:47+07:00</updated>
+            <summary>
+                <![CDATA[
+                    Mục lục về các bài học: Bài 1: CÁC KHÁI NIỆM CƠ BẢN VỀ MẠNG MÁY TÍNH Bài 2: CÁC DÒNG VÀO-RA (STREAM) Bài 3: LẬP TRÌNH ĐA LUỒNG TRONG JAVA Bài 4: LỚP INETADDRESS Bài 5: LẬP TRÌNH VỚI GIAO THỨC TCP Bài 6:&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h1>Mục lục về các bài học:</h1>
+<h2><a href="C:\Users\tranh\OneDrive\Documents\Publii\sites\huy-phuongs-blog\output\posts\chuong-1-tong-quan-ve-lap-trinh-mang\index.html" style="color: #007bff;">Bài 1: CÁC KHÁI NIỆM CƠ BẢN VỀ MẠNG MÁY TÍNH</a></h2>
+<h2><a href="C:\Users\tranh\OneDrive\Documents\Publii\sites\huy-phuongs-blog\output\posts\chuong-2-quan-ly-cac-luong-io\index.html" style="color: #007bff;">Bài 2: CÁC DÒNG VÀO-RA (STREAM)</a></h2>
+<h2><a href="C:\Users\tranh\OneDrive\Documents\Publii\sites\huy-phuongs-blog\output\posts\chuong-3-lap-trinh-da-tuyen\index.html" style="color: #007bff;">Bài 3: LẬP TRÌNH ĐA LUỒNG TRONG JAVA</a></h2>
+<h2><a href="C:\Users\tranh\OneDrive\Documents\Publii\sites\huy-phuongs-blog\output\posts\chuong-4-quan-ly-dia-chi-ket-noi-mang\index.html" style="color: #007bff;">Bài 4: LỚP INETADDRESS</a></h2>
+<h2><a href="C:\Users\tranh\OneDrive\Documents\Publii\sites\huy-phuongs-blog\output\posts\chuong-5-lap-trinh-socket-cho-giao-thuc-tcp\index.html" style="color: #007bff;">Bài 5: LẬP TRÌNH VỚI GIAO THỨC TCP</a></h2>
+<h2><a href="C:\Users\tranh\OneDrive\Documents\Publii\sites\huy-phuongs-blog\output\posts\chuong-6-ky-thuat-da-tien-trinh-va-tuan-tu-hoa-ung-dung-mang\index.html" style="color: #007bff;">Bài 6: Lập trình giao thức UDP</a></h2>
+<h2><a href="C:\Users\tranh\OneDrive\Documents\Publii\sites\huy-phuongs-blog\output\posts\chuong-7-lap-trinh-socket-cho-giao-thuc-udp\index.html" style="color: #007bff;">Bài 7: Kỹ thuật lập trình phân tán RMI</a></h2>
+<h2><a href="C:\Users\tranh\OneDrive\Documents\Publii\sites\huy-phuongs-blog\output\posts\chuong-8-lap-trinh-multicast\index.html" style="color: #007bff;">Bài 8: Lập trình mạng an toàn bảo mật với SSL</a></h2>
+<h2><a href="C:\Users\tranh\OneDrive\Documents\Publii\sites\huy-phuongs-blog\output\posts\chuong-9-phan-tan-doi-tuong-trong-java-bang-rmi\index.html" style="color: #007bff;">Bài 9: Lập trình ứng dụng truyền thông qua mạng điện thoại công cộng (PTSN)</a></h2>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>About me</title>
         <author>
@@ -1733,486 +1782,6 @@ ID lu</span><span class="pun">ồ</span><span class="pln">ng </span><span class=
 <li>https://www.javatpoint.com/multithreading-in-java</li>
 <li>https://o7planning.org/vi/10269/huong-dan-lap-trinh-da-luong-trong-java</li>
 </ul>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Chương 2: Quản lý các luồng I/O</title>
-        <author>
-            <name>Trần Huy Phương</name>
-        </author>
-        <link href="https://github.com/HuyPhuongVN/PhuongBlog.git/posts/chuong-2-quan-ly-cac-luong-io/"/>
-        <id>https://github.com/HuyPhuongVN/PhuongBlog.git/posts/chuong-2-quan-ly-cac-luong-io/</id>
-
-        <updated>2024-12-27T19:26:39+07:00</updated>
-            <summary>
-                <![CDATA[
-                    Khái niệm luồng (stream): Một stream có thể được định nghĩa như là một dãy liên tục dữ liệu. Java định nghĩa 2 kiểu luồng: byte và ký tự (phiên bản gốc chỉ định nghĩa kiểu luồng byte, và sau đó luồng ký tự được&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <ul>
-<li><strong>Khái niệm luồng (stream)</strong>: Một stream có thể được định nghĩa như là một dãy liên tục dữ liệu. Java định nghĩa 2 kiểu luồng: byte và ký tự (phiên bản gốc chỉ định nghĩa kiểu luồng byte, và sau đó luồng ký tự được thêm vào trong các phiên bản về sau). Luồng ký tự được thiết kế hỗ trợ việc nhập xuất dữ liệu kiểu ký tự (Unicode). Trong một vài trường hợp luồng ký tự sử dụng hiệu quả hơn luồng byte, nhưng ở mức hệ thống thì tất cả những xuất nhập đều phải qui về byte. Luồng ký tự hỗ trợ hiệu quả chỉ đối với việc quản lý, xử lý các ký tự.</li>
-</ul>
-<h3 id="_luong-byte-1">Luồng Byte:</h3>
-<ul>
-<li>Các luồng byte được định nghĩa dùng hai lớp phân cấp, mức trên cùng là hai lớp trừu tượng <strong>InputStream</strong> và <strong>OutputStream</strong>, là các lớp cha của các lớp xuất nhập kiểu byte. InputStream định nghĩa những đặc điểm chung cho những luồng nhập byte. OutputStream mô tả cách xử lý của các luồng xuất byte.</li>
-</ul>
-<figure class="article-img"><img loading="lazy"  title="" src="http://i.imgur.com/TdlBT3Z.png" alt="" data-is-external-image="true"></figure>
-<p>Nhìn trong hình, bạn có thể hiểu được quan hệ giữa các class trong IO với nhau. Chúng ta cần quan tâm nhiều đến <strong>FileInputStream</strong> (FileOutputStream) và <strong>BufferedInputStream</strong> (BufferedOutputStream) khi làm việc xuất nhập với file.</p>
-<ul>
-<li><strong>FileInputStream</strong>: Làm việc với file, Đọc từng byte dữ liệu bằng phương thức read(), khi kết thúc nó trả về giá trị -1. Cách này có tốc độ tương đối chậm. Đọc theo từng byte:</li>
-</ul>
-<div style="box-sizing: border-box; color: #1b1b1b; font-family: 'Open Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: #ffffff; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; position: relative;">
-<pre class="language-sh" data-filename=""><code>FileInputStream in = new FileInputStream("data.txt");
-while ((byteRead = in.read()) != -1) {
-  System.out.println(byteRead);
-}
-</code></pre>
-<button class="v-markdown-it-code-copy" title="Sao chép" data-clipboard-text="FileInputStream in = new FileInputStream(&quot;data.txt&quot;);
-while ((byteRead = in.read()) != -1) {
-  System.out.println(byteRead);
-}
-"></button></div>
-<p>Đọc theo từng mảng byte.</p>
-<div style="box-sizing: border-box; color: #1b1b1b; font-family: 'Open Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: #ffffff; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; position: relative;">
-<pre class="language-java" data-filename=""><code>//Dữ liệu đọc được lưu vào mảng byteBuf.
-//byteRead là số byte đọc được
-FileInputStream in = new FileInputStream("data.txt");
-byte[] byteBuf = new byte[4096];
-while ((byteRead = in.read()) != -1) {
-  for(int i = 0; i &lt;= byteRead; i++){
-    System.out.println(byteBuf[i]);
-  }
-}
-</code></pre>
-<button class="v-markdown-it-code-copy" title="Sao chép" data-clipboard-text="//Dữ liệu đọc được lưu vào mảng byteBuf.
-//byteRead là số byte đọc được
-FileInputStream in = new FileInputStream(&quot;data.txt&quot;);
-byte[] byteBuf = new byte[4096];
-while ((byteRead = in.read()) != -1) {
-  for(int i = 0; i &lt;= byteRead; i++){
-    System.out.println(byteBuf[i]);
-  }
-}
-"></button></div>
-<h3 id="_tuy-nhien-dieu-nay-duong-nhu-khong-duoc-khuyen-khich-de-tang-toc-do-bang-viec-su-dung-bo-dem-hay-su-dung-bufferedinputstream-2">Tuy nhiên điều này dường như không được khuyến khích. Để tăng tốc độ bằng việc sử dụng bộ đệm, hãy sử dụng [<strong>BufferedInputStream</strong>].</h3>
-<ul>
-<li><strong>BufferedInputStream</strong>: Java sử dụng cơ chế nhập/xuất có lập vùng đệm để tạm thời lập cache dữ liệu vào/ra của một dòng. Nó giúp chương trình đọc/ghi lượng dữ liệu nhỏ không ảnh hưởng lớn đến hiệu năng chung của hệ thống. Trong khi thực hiện vào có vùng đệm, một số lượng byte lớn được đọc tại một thời điểm, và lưu trữ trong một vùng đệm nhập. Khi chương trình đọc dòng nhập thì thay vì ra dòng vào để đọc nó đọc từ vùng đệm nhập. Tiến trình lập vùng đệm ra cũng thực hiện tương tự. khi dữ liệu được một chương trình ghi ra dòng ra, dữ liệu ra được lưu trữ trong một vùng đệm ra. Dữ liệu được lưu trữ đến khi vùng đệm đầy hoặc các dòng tra thực hiện xả trống (flush). Cuối cùng liệu ra trong vùng đệm được chuyển đến dòng ra.</li>
-</ul>
-<p>Lớp này tự động tạo ra và duy trì vùng đệm để hỗ trợ thao tác vào. Nhờ đó chương trình có thể đọc dữ liệu từ dòng từng byte một mà không ảnh hưởng đến tốc độ thực hiện của hệ thống. Bởi lớp <strong>BufferedInputStream</strong> là một bộ lọc, nên có thể áp dụng nó cho một số đối tượng nhất định của lớp InputStream (không nhất thiết chỉ làm việc với file) và cũng có thể phối hợp với các tập tin đầu vào khác. BufferedInputStream được hiểu một phương thức trung gian, tham số truyền vào của nó là một dòng inputstream (ví dụ FileInputStream). Khác với FileInputStream có tham số truyền vào 1 file.</p>
-<div style="box-sizing: border-box; color: #1b1b1b; font-family: 'Open Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: #ffffff; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; position: relative;">
-<pre class="language-sh" data-filename=""><code>BufferedInputStream in = new BufferedInputStream(new FileInputStream("data.txt"));
-while ((byteRead = in.read()) != -1) {
-  System.out.println(byteRead);
-}
-</code></pre>
-<button class="v-markdown-it-code-copy" title="Sao chép" data-clipboard-text="BufferedInputStream in = new BufferedInputStream(new FileInputStream(&quot;data.txt&quot;));
-while ((byteRead = in.read()) != -1) {
-  System.out.println(byteRead);
-}
-"></button></div>
-<p>Đọc theo mảng byte:</p>
-<div style="box-sizing: border-box; color: #1b1b1b; font-family: 'Open Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: #ffffff; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; position: relative;">
-<pre class="language-sh" data-filename=""><code>BufferedInputStream in = new BufferedInputStream(new FileInputStream("data.txt"));
-byte[] byteBuf = new byte[4096];
-while ((byteRead = in.read()) != -1) {
-  for(int i = 0; i &lt;= byteRead; i++){
-    System.out.println(byteBuf[i]);
-  }
-}
-</code></pre>
-<button class="v-markdown-it-code-copy" title="Sao chép" data-clipboard-text="BufferedInputStream in = new BufferedInputStream(new FileInputStream(&quot;data.txt&quot;));
-byte[] byteBuf = new byte[4096];
-while ((byteRead = in.read()) != -1) {
-  for(int i = 0; i &lt;= byteRead; i++){
-    System.out.println(byteBuf[i]);
-  }
-}
-"></button></div>
-<ul>
-<li><strong>Các phương thức của lớp InputStream</strong></li>
-</ul>
-<table>
-<thead>
-<tr>
-<th>Tên phương thức</th>
-<th>Mô tả</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>read()</td>
-<td>Đọc các byte dữ liệu từ một dòng. Nếu như không có byte dữ liệu nào, nó phải chờ. Khi một phương thức phải chờ, các luồng đang thực hiện phải tạm dừng cho đến khi có dữ liệu.</td>
-</tr>
-<tr>
-<td>read (byte [])</td>
-<td>Trả về số byte đọc được hay ‘-1’ nếu như đã đọc đến cuối dòng. Nó gây ra ngoại lệ IOException nếu có lỗi xảy ra.</td>
-</tr>
-<tr>
-<td>read (byte [], int, int)</td>
-<td>Nó cũng đọc vào một mảng byte. Nó trả về số byte thực sự đọc được cho đến khi kết thúc dòng. Nó gây ra ngoại lệ IOException nếu lỗi xảy ra.</td>
-</tr>
-<tr>
-<td>available()</td>
-<td>Phương pháp này trả về số lượng byte có thể đọc được mà không pahỉ chờ. Nó trả về số byte hiện tại có trong dòng. Nó không phải là phương thức tin cậy để thực hiện tiến trình xử lý đầu vào.</td>
-</tr>
-<tr>
-<td>close()</td>
-<td>Phương thức này đóng dòng. Nó dùng để giải phóng mọi tài nguyên dòng đã sử dụng. Luôn luôn đóng dòng để chắc chắn rằng dòng xử lý được kết thúc. Nó gây ra ngoại lệ IOException nếu lỗi xảy ra.</td>
-</tr>
-<tr>
-<td>mark()</td>
-<td>Đánh dấu vị trí hiện tại của dòng.</td>
-</tr>
-<tr>
-<td>markSupported()</td>
-<td>Trả về giá trị boolean chỉ ra rằng dòng có hỗ trợ các khả năng mark và reset hay không. Nó trả về True nếu dòng hỗ trợ ngược lại trả về False.</td>
-</tr>
-<tr>
-<td>reset()</td>
-<td>Phương thức này định vị lại dòng theo vị trí được đánh lần cuối cùng. Nó gây ra ngoại lệ IOException nếu lỗi xảy ra.</td>
-</tr>
-<tr>
-<td>skip()</td>
-<td>Phương thức này bỏ qua ‘n’ byte dòng vào. "-n" chỉ định số byte được bỏ qua. Nó gây ra ngoại lệ IOException nếu lỗi xảy ra. Phương thức này sử dụng để di chuyển tới vị trí đặc biệt bên trong dòng vào.</td>
-</tr>
-</tbody>
-</table>
-<ul>
-<li><strong>Các phương thức của lớp OutputStream</strong></li>
-</ul>
-<table>
-<thead>
-<tr>
-<th>Tên phương thức</th>
-<th>Mô tả</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>write(int)</td>
-<td>Phương thức này ghi một byte</td>
-</tr>
-<tr>
-<td>write(byte[])</td>
-<td>Phương thức này phong toả cho đến khi một byte được ghi. dòng phải chờ cho đến khi tác vụ ghi hoàn tất. Nó gây ra ngoại lệ IOException nếu lỗi xảy ra.</td>
-</tr>
-<tr>
-<td>write(byte[],int,int)</td>
-<td>Phương thức này ghi mảng các byte. Lớp OutputStream định nghĩa ba dạng khác nhau của phương thức để có thể ghi một byte riêng lẻ, một mảng các byte, hay một đoạn của một mảng byte.</td>
-</tr>
-<tr>
-<td>flush()</td>
-<td>Phương thức này xả sạch dòng.Đệm dữ liệu được ghi ra dòng. Nó kích hoạt IOException nếu lỗi xảy ra.</td>
-</tr>
-<tr>
-<td>close()</td>
-<td>Phương thức đóng dòng.Nó được dùng để giải phóng mọi tài nguyên gắn với dòng. Nó kích hoạt IOException nếu lỗi xảy ra.</td>
-</tr>
-</tbody>
-</table>
-<h3 id="_luong-ky-tu-3">Luồng ký tự:</h3>
-<p>Trong nhiều trường hợp luồng byte không phải là cách tốt nhất để quản lý nhập xuất dữ liệu ký tự. Trong lập trình Java có kiểu luồng ký tự phục vụ riêng cho việc nhập xuất dữ liệu trên luồng. Mức trên cùng là 2 lớp trừu tường Reader và Writer. Các lớp dẫn xuất từ Reader và Writer hỗ trợ thao tác trên các luồng ký tự Unicode.</p>
-<figure class="article-img"><img loading="lazy"  title="" src="http://i.imgur.com/2Ltj8wI.png" alt="" data-is-external-image="true"></figure>
-<p>Để thao tác với file, bạn cần quan tâm đến các class <em>FileReader</em> và <em>BufferedReader</em> Ví dụ chỉ sử dụng FileReader</p>
-<div style="box-sizing: border-box; color: #1b1b1b; font-family: 'Open Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: #ffffff; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; position: relative;">
-<pre class="language-sh" data-filename=""><code>//Đọc từng ký tự một
-FileReader inputStream = new FileReader("data.txt");
-int c;
-while ((c = inputStream.read()) != -1) {
-  System.out.print((char)c);
-}
-</code></pre>
-<button class="v-markdown-it-code-copy" title="Sao chép" data-clipboard-text="//Đọc từng ký tự một
-FileReader inputStream = new FileReader(&quot;data.txt&quot;);
-int c;
-while ((c = inputStream.read()) != -1) {
-  System.out.print((char)c);
-}
-"></button></div>
-<p>Nếu sử dụng BufferedReader</p>
-<div style="box-sizing: border-box; color: #1b1b1b; font-family: 'Open Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: #ffffff; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; position: relative;">
-<pre class="language-sh" data-filename=""><code>//Có thể đọc theo từng dòng
-FileReader fin = new FileReader("data.txt");
-BufferedReader in = new BufferedReader(fin);
-String str;
-while ((str = in.readLine()) != null) {
-  System.out.println(str);
-}
-</code></pre>
-<button class="v-markdown-it-code-copy" title="Sao chép" data-clipboard-text="//Có thể đọc theo từng dòng
-FileReader fin = new FileReader(&quot;data.txt&quot;);
-BufferedReader in = new BufferedReader(fin);
-String str;
-while ((str = in.readLine()) != null) {
-  System.out.println(str);
-}
-"></button></div>
-<p>Ví dụ đọc dữ liệu từ hệ thống (Console)</p>
-<div style="box-sizing: border-box; color: #1b1b1b; font-family: 'Open Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: #ffffff; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; position: relative;">
-<pre class="language-sh" data-filename=""><code>BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-System.out.println("Nhập chuỗi ký tự, kết thúc bằng dấu chấm .");
-do {
-  c = (char) br.read();
-  System.out.println(c);
-} while (c != '.');
-</code></pre>
-<button class="v-markdown-it-code-copy" title="Sao chép" data-clipboard-text="BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-System.out.println(&quot;Nhập chuỗi ký tự, kết thúc bằng dấu chấm .&quot;);
-do {
-  c = (char) br.read();
-  System.out.println(c);
-} while (c != '.');
-"></button></div>
-<p>Ở đây, chúng ta không có cách nào xây dựng 1 lớp BufferedReader trực tiếp từ <a href="http://system.in/" target="_blank" rel="noopener">System.in</a> vì thế nên cần chuyển nó thành luồng ký tự bằng cách dùng InputStreamReader để chuyển byte thành ký tự.</p>
-<ul>
-<li><strong>Các phương thức của lớp Reader</strong></li>
-</ul>
-<table>
-<thead>
-<tr>
-<th>Phương thức</th>
-<th>Mô tả</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>void close</td>
-<td>Đóng luồng</td>
-</tr>
-<tr>
-<td>void mark(int numChars)</td>
-<td>Đánh dấu vị trí hiện tại trên luồng</td>
-</tr>
-<tr>
-<td>int read()</td>
-<td>Đọc một ký tự</td>
-</tr>
-<tr>
-<td>int read(char buffer[])</td>
-<td>đọc buffer.length ký tự và ghi vào buffer</td>
-</tr>
-<tr>
-<td>abstract int read(char buffer[], int offset, int numChars)</td>
-<td>Đọc numChars ký tự cho vào vùng đệm buffer tại vị trí buffer[offset]</td>
-</tr>
-<tr>
-<td>boolean ready()</td>
-<td>Kiểm tra xem luồng có đọc được không</td>
-</tr>
-<tr>
-<td>void reset()</td>
-<td>Dời con trỏ nhập đến vị trí đánh dấu trước đó</td>
-</tr>
-<tr>
-<td>long skip(long numChars</td>
-<td>Bỏ qua numChars của luồng nhập</td>
-</tr>
-</tbody>
-</table>
-<ul>
-<li><strong>Các phương thức của lớp Writer</strong></li>
-</ul>
-<table>
-<thead>
-<tr>
-<th>abstract void close()</th>
-<th>Đóng luồng xuất</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>void flush()</td>
-<td>Dọn dẹp luồng. (Xuất buffer ra)</td>
-</tr>
-<tr>
-<td>void write(int ch)</td>
-<td>Ghi một ký tự</td>
-</tr>
-<tr>
-<td>void write(byte buffer[])</td>
-<td>Ghi một mảng ký tự</td>
-</tr>
-<tr>
-<td>void write(char buffer[], int offset, int numChars)</td>
-<td>Ghi một phần của mảng ký tự</td>
-</tr>
-<tr>
-<td>void write(String str)</td>
-<td>Ghi một chuỗi</td>
-</tr>
-<tr>
-<td>void write(String str, int offset, int numChars)</td>
-<td>Ghi một phần của chuỗi ký tự</td>
-</tr>
-</tbody>
-</table>
-<h3 id="_doc-va-ghi-doi-tuong-trong-java-4">Đọc và ghi đối tượng trong Java</h3>
-<p>Trong Java, việc đọc và ghi một object do class ObjectOutputStream và ObjectInputStream đảm nhiệm. Đây là 2 lớp con của lớp java.io.OutputStream và java.io.InputStream. Để đọc ghi theo Object trong Java thì tại class Object đó ta cần đặt giao tiếp java.io.Serializable. Một ví dự đơn giản đọc ghi 1 Object MyStudent như sau:</p>
-<div class="v-markdown-content-box" style="box-sizing: border-box; max-height: 300px; padding-bottom: 1rem; cursor: pointer; mask-image: linear-gradient(#000000 60%, transparent); color: #1b1b1b; font-family: 'Open Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: #ffffff; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; position: relative;">
-<pre class="language-java" data-filename=""><code>public class ReadWriteObject {
-    public static void main(String[] args){
-        MyStudent myStudent = new MyStudent(); // tao doi tuong myStudent
- 
-        //Ghi Object vao file
- 
-        try {   // dat try cacth de tranh ngoai le khi tao va viet File
-            FileOutputStream f = new FileOutputStream("student.dat"); // tao file f tro den student.dat
-            ObjectOutputStream oStream = new ObjectOutputStream(f); // dung de ghi theo Object vao file f
-            oStream.writeObject(myStudent); // ghi MyStudent theo kieu Object vao file
-            oStream.close();
-        } catch (IOException e) {
-            System.out.println("Error Write file");
-        }
- 
-        // doc Object tu file
-        MyStudent ms = null;
- 
-        try {   // dat try cacth de tranh ngoai le khi tao va doc File
-            FileInputStream f = new FileInputStream("student.dat"); // tao file f tro den student.dat
-            ObjectInputStream inStream = new ObjectInputStream(f);  // dung de doc theo Object vao file f
-            // dung inStream doc theo Object, ep kieu tra ve la MyStudent
-            ms = (MyStudent) inStream.readObject();
-            inStream.close();
-        } catch (ClassNotFoundException e) {
-            System.out.println("Class not found");
-        } catch (IOException e) {
-            System.out.println("Error Read file");
-        }
- 
-        // Xuat KQ
-        System.out.println("My name is " + ms.name + ". I am " + ms.age + " years old");
-    }
-}
- 
-class MyStudent implements Serializable{
-    String name = "Nguyen Cong Thanh";
-    int age = 21;
-}
-</code></pre>
-<button class="v-markdown-it-code-copy" title="Sao chép" data-clipboard-text="public class ReadWriteObject {
-    public static void main(String[] args){
-        MyStudent myStudent = new MyStudent(); // tao doi tuong myStudent
- 
-        //Ghi Object vao file
- 
-        try {   // dat try cacth de tranh ngoai le khi tao va viet File
-            FileOutputStream f = new FileOutputStream(&quot;student.dat&quot;); // tao file f tro den student.dat
-            ObjectOutputStream oStream = new ObjectOutputStream(f); // dung de ghi theo Object vao file f
-            oStream.writeObject(myStudent); // ghi MyStudent theo kieu Object vao file
-            oStream.close();
-        } catch (IOException e) {
-            System.out.println(&quot;Error Write file&quot;);
-        }
- 
-        // doc Object tu file
-        MyStudent ms = null;
- 
-        try {   // dat try cacth de tranh ngoai le khi tao va doc File
-            FileInputStream f = new FileInputStream(&quot;student.dat&quot;); // tao file f tro den student.dat
-            ObjectInputStream inStream = new ObjectInputStream(f);  // dung de doc theo Object vao file f
-            // dung inStream doc theo Object, ep kieu tra ve la MyStudent
-            ms = (MyStudent) inStream.readObject();
-            inStream.close();
-        } catch (ClassNotFoundException e) {
-            System.out.println(&quot;Class not found&quot;);
-        } catch (IOException e) {
-            System.out.println(&quot;Error Read file&quot;);
-        }
- 
-        // Xuat KQ
-        System.out.println(&quot;My name is &quot; + ms.name + &quot;. I am &quot; + ms.age + &quot; years old&quot;);
-    }
-}
- 
-class MyStudent implements Serializable{
-    String name = &quot;Nguyen Cong Thanh&quot;;
-    int age = 21;
-}
-"></button>
-<div class="v-content-flex-center"> </div>
-</div>
-<h3 id="_tai-lieu-tham-khao-5">Tài liệu tham khảo:</h3>
-<p>Link project github: <a href="https://github.com/hoangtien2k3qx1/Java/tree/main/src/main/java/JavaCore/Java_Input_Output" target="_blank" rel="noopener"><strong>https://github.com/hoangtien2k3qx1/Java/tree/main/JavaCore/Java_Input_Output</strong></a></p>
-<p>Github: <a href="https://github.com/hoangtien2k3qx1" target="_blank" rel="noopener"><strong>https://github.com/hoangtien2k3qx1</strong></a></p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Chương 1: Tổng quan về lập trình mạng</title>
-        <author>
-            <name>Trần Huy Phương</name>
-        </author>
-        <link href="https://github.com/HuyPhuongVN/PhuongBlog.git/posts/chuong-1-tong-quan-ve-lap-trinh-mang/"/>
-        <id>https://github.com/HuyPhuongVN/PhuongBlog.git/posts/chuong-1-tong-quan-ve-lap-trinh-mang/</id>
-
-        <updated>2024-12-27T19:21:57+07:00</updated>
-            <summary>
-                <![CDATA[
-                    1. Mạng và lập trình mạng là gì? Để trở thành người lập trình mạng giỏi, trước hết phải là người am hiểu kiến thức về mạng và lập trình. Một chương trình mạng viết ra là để truyền thông tin một cách hiệu quả&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <h2><span id="1-mang-va-lap-trinh-mang-la-gi"><strong>1. Mạng và lập trình mạng là gì?</strong></span></h2>
-<p>Để trở thành người lập trình mạng giỏi, trước hết phải là người am hiểu kiến thức về mạng và lập trình. Một chương trình mạng viết ra là để truyền thông tin một cách hiệu quả và an toàn nhất mà không sợ bị lộ thông tin.</p>
-<h3><span id="mang-la-gi"><strong>Mạng là gì? </strong></span></h3>
-<p>Với mục đích phân tích và nghiên cứu quá trình giao tiếp, Mạng máy tính đã được tạo ra như một bước tiến mới trong lịch sử. Bởi nó liên kết toàn bộ các hệ thống máy tính khác nhau để trao đổi thông tin cần thiết.</p>
-<p>Do đó, việc kết nối mạng chỉ thực hiện được khi có mạng riêng của nó. Có 4 loại mạng cơ bản là: LAN, MAN, WAN và PAN. Người dùng cần chú ý cơ chế hoạt động của các mạng để lựa chọn phát triển chương trình mạng được tốt nhất. </p>
-<div id="attachment_65334" class="wp-caption aligncenter"><figure class="size-full wp-image-65334"><img loading="lazy"  src="https://cdn.codegym.vn/wp-content/uploads/2022/12/lap-trinh-mang-la-gi-1.webp" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 600px, 100vw" srcset="https://cdn.codegym.vn/wp-content/uploads/2022/12/lap-trinh-mang-la-gi-1.webp 600w, https://cdn.codegym.vn/wp-content/uploads/2022/12/lap-trinh-mang-la-gi-1-480x320.webp 480w" alt="Có 4 loại mạng cơ bản là: LAN, MAN, WAN và PAN" width="600" height="400" aria-describedby="caption-attachment-65334" data-is-external-image="true"></figure>
-<p id="caption-attachment-65334" class="wp-caption-text">Có 4 loại mạng cơ bản là: LAN, MAN, WAN và PAN</p>
-</div>
-<ul>
-<li><strong>Mạng LAN (Local Area Network)</strong></li>
-</ul>
-<p><a href="https://vi.wikipedia.org/wiki/M%E1%BA%A1ng_c%E1%BB%A5c_b%E1%BB%99" target="_blank" rel="noopener"><strong>Mạng LAN</strong></a> là mạng cục bộ nên có đường truyền ngắn. Với giao thức TCP/IP, mạng LAN chủ yếu được sử dụng tại nơi diện tích nhỏ như: văn phòng, tòa nhà, trường học.</p>
-<p>Tất cả máy tính kết nối mạng LAN đều được sử dụng để kết nối vào máy chủ sau đó chờ quyền truy cập để thực hiện lệnh in trên máy in. </p>
-<ul>
-<li><strong>Mạng MAN (Metropolitan Area Network)</strong></li>
-</ul>
-<p>Khác với mạng LAN, mạng đô thị MAN có phạm vị kết nối rộng hơn, hình thành nhờ sự kết nối nhiều mạng LAN với nhau. </p>
-<p>Đây là mô hình rộng cung cấp dịch vụ giá trị gia tăng; trên một đường truyền tốc độ nhanh để kết nối và mở rộng triển khai các doanh nghiệp với nhau. </p>
-<ul>
-<li><strong>Mạng WAN (Wide Area Network)</strong></li>
-</ul>
-<p>Mạng diện rộng WAN là sự kết hợp giữa mạng LAN và mạng MAN với việc sử dụng đường dây cáp quang hay thuê bao hoặc thông qua đường truyền vệ tinh. </p>
-<p>Phạm vi hoạt động của mạng rộng lớn hơn, bao gồm cả một quốc gia, khu vực địa lý hay thậm chí ở toàn cầu. </p>
-<ul>
-<li><strong>Mạng PAN (Personal Area Network)</strong></li>
-</ul>
-<p>Mạng PAN có khả năng phát tín hiệu kết nối trong một diện tích nhỏ để truyền dữ liệu thông qua mạng trực tuyến. </p>
-<p>Cá nhân có thể sử dụng mạng PAN giữa các thiết bị với nhau như di động. máy tính. để liên lạc thuận lợi hơn hoặc kết nối với các mạng cao cấp hơn.</p>
-<h3><span id="lap-trinh-mang-la-gi"><strong>Lập trình mạng là gì?</strong></span></h3>
-<p>Lập trình mạng nói một cách dễ hiểu là công việc của người sẽ phát triển ứng dụng tại hệ thống doanh nghiệp từ việc lập sổ sách nhân sự, quản lý tiền cho đến việc sáng tạo các trò chơi, điều khiển để thêm sức hấp dẫn thu hút hơn. </p>
-<p>Công thức để xây dựng lập trình mạng như sau: </p>
-<p><strong>Lập trình mạng = Kiến thức mạng + Mô hình lập trình mạng + Ngôn ngữ lập trình mạng</strong></p>
-<p>Theo công thức này thì sẽ rất dễ nhận thấy ba vấn đề chính cần quan tâm là kiến thức mạng truyền thông, mô hình lập trình và ngôn ngữ lập trình. </p>
-<p>Về kiến thức mạng truyền thông thì đây là kiến thức chung về mạng di động: mạng Bluetooth, hệ thống GPS, mạng Sensor… mà người làm quản trị cần nắm vững cách sử dụng để khai thác. </p>
-<p>Mô hình lập trình là kiến thức về tất cả các cách xây dựng hệ thống mạng, kiến thức về cơ sở dữ liệu, mô hình xây dựng các chương trình ứng dụng mạng. </p>
-<h2><span id="2-lap-trinh-mang-hoc-ngon-ngu-gi"><strong>2. Lập trình mạng học ngôn ngữ gì?</strong></span></h2>
-<p>Thành phần không thể thiếu của lập trình hay lập trình mạng chính là ngôn ngữ lập trình. Ngôn ngữ lập trình mạng là yếu tố quyết định then chốt xem </p>
-<p>chương trình mạng đang hoạt động ra sao. Tùy theo mục đích sử dụng mà sẽ </p>
-<p>tạo ngôn ngữ lập trình mạng tương ứng. </p>
-<p>Vậy thì học lập trình mạng chúng ta sẽ sử dụng ngôn ngữ nào? Có nhiều loại ngôn ngữ để lập trình mạng khác nhau, tuy nhiên tất cả đều vẫn có ưu nhược điểm riêng. Nhưng tóm gọn vẫn là hỗ trợ thư viện API với các cấp độ và mức phụ thuộc. </p>
-<p>Các ngôn ngữ lập trình mạng phổ biến hiện nay được sử dụng nhiều nhất là:</p>
-<ul>
-<li>C/C++</li>
-<li>Java</li>
-<li>.NET</li>
-<li>Delphi</li>
-<li>Javascript</li>
-</ul>
-<p>Trước đây Java hay NET lại được sử dụng khá rộng rãi do sự tiện ích của nó khi xây dựng một ứng dụng mạng mang lại. Hiện nay, xu hướng ngôn ngữ lập trình đã có những thay đổi, đặc biệt là làn sóng xu lập trình Fullstack với lập trình mạng từ nền Javascript nhận được sự quan tâm nhiều hơn. </p>
-<div id="attachment_65335" class="wp-caption aligncenter"><figure class="size-full wp-image-65335 lazyloaded"><img loading="lazy"  src="https://cdn.codegym.vn/wp-content/uploads/2022/12/lap-trinh-mang-la-gi-2.webp" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 600px, 100vw" srcset="https://cdn.codegym.vn/wp-content/uploads/2022/12/lap-trinh-mang-la-gi-2.webp 600w, https://cdn.codegym.vn/wp-content/uploads/2022/12/lap-trinh-mang-la-gi-2-480x320.webp 480w" alt="Lập trình mạng cần am hiểu nhiều ngôn ngữ khác nhau" width="600" height="400" aria-describedby="caption-attachment-65335" data-src="https://cdn.codegym.vn/wp-content/uploads/2022/12/lap-trinh-mang-la-gi-2.webp" data-srcset="https://cdn.codegym.vn/wp-content/uploads/2022/12/lap-trinh-mang-la-gi-2.webp 600w, https://cdn.codegym.vn/wp-content/uploads/2022/12/lap-trinh-mang-la-gi-2-480x320.webp 480w" data-sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 600px, 100vw" data-is-external-image="true"></figure>
-<p id="caption-attachment-65335" class="wp-caption-text">Lập trình mạng cần am hiểu nhiều ngôn ngữ khác nhau</p>
-</div>
-<h2><span id="3-kien-thuc-co-ban-ve-lap-trinh-mang"><strong>3. Kiến thức cơ bản về lập trình mạng </strong></span></h2>
-<p>Ngoài những hiểu biết về mạng và lập trình mạng cũng như ngôn ngữ lập trình. Hiện nay khi học lập trình, các nhà lập trình thường sử dụng ngôn ngữ lập trình NET. Ngôn ngữ lập trình của NET là tập hợp các lớp dùng để lập trình online thuộc không gian System.net và System.net Socket. Các lớp này hỗ trợ tất cả mọi thứ từ lập trình đến tạo địa chỉ TCP/IP.</p>
-<p>Mạng cục bộ LAN được các nhà lập trình tương lai xây dựng và phát triển các máy tính để kết nối tại các khu vực nhỏ như hộ gia đình hay toà nhà. </p>
-<p>Ngoài ra lập trình mạng còn có dịch vụ web HTML, được thông qua từ HTTP. Hai không gian này đều có nền tảng hay networking cấp cao. Không chỉ vậy, lập trình mạng cũng cần tới nền Socket khi đây là giao diện trực tuyến, thông qua đó lập trình điều khiển 2 máy với nhau, gửi nhận dữ liệu giữa 2 máy.</p>
-<p> </p>
             ]]>
         </content>
     </entry>

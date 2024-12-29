@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://github.com/HuyPhuongVN/PhuongBlog.git/posts/about-me-2/",
+            "url": "https://github.com/HuyPhuongVN/PhuongBlog.git/posts/about-me-2/",
+            "title": "About me",
+            "summary": "Tôi là Trần Huy Phương, sinh viên năm 4 tại Đại học HUTECH, đam mê lập trình game và luôn mong muốn nâng cao kỹ năng trong lĩnh vực này. Tôi tạo blog này để chia sẻ kiến thức, dự án và hành trình phát&hellip;",
+            "content_html": "<p>Tôi là Trần Huy Phương, sinh viên năm 4 tại Đại học HUTECH, đam mê lập trình game và luôn mong muốn nâng cao kỹ năng trong lĩnh vực này. Tôi tạo blog này để chia sẻ kiến thức, dự án và hành trình phát triển nghề nghiệp trong lập trình game, đồng thời kết nối với cộng đồng và tìm kiếm cơ hội nghề nghiệp.</p>",
+            "author": {
+                "name": "Trần Huy Phương"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-12-29T12:10:50+07:00",
+            "date_modified": "2024-12-29T12:10:59+07:00"
+        },
+        {
             "id": "https://github.com/HuyPhuongVN/PhuongBlog.git/posts/chuong-9-phan-tan-doi-tuong-trong-java-bang-rmi/",
             "url": "https://github.com/HuyPhuongVN/PhuongBlog.git/posts/chuong-9-phan-tan-doi-tuong-trong-java-bang-rmi/",
             "title": "Chương 9: Phân tán đói tượng trong Java bằng RMI",

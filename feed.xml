@@ -3,12 +3,32 @@
     <title>Huy Phuong&#x27;s Blog</title>
     <link href="https://github.com/HuyPhuongVN/PhuongBlog.git/feed.xml" rel="self" />
     <link href="https://github.com/HuyPhuongVN/PhuongBlog.git" />
-    <updated>2024-12-27T20:00:20+07:00</updated>
+    <updated>2024-12-29T12:10:59+07:00</updated>
     <author>
         <name>Trần Huy Phương</name>
     </author>
     <id>https://github.com/HuyPhuongVN/PhuongBlog.git</id>
 
+    <entry>
+        <title>About me</title>
+        <author>
+            <name>Trần Huy Phương</name>
+        </author>
+        <link href="https://github.com/HuyPhuongVN/PhuongBlog.git/posts/about-me-2/"/>
+        <id>https://github.com/HuyPhuongVN/PhuongBlog.git/posts/about-me-2/</id>
+
+        <updated>2024-12-29T12:10:50+07:00</updated>
+            <summary>
+                <![CDATA[
+                    Tôi là Trần Huy Phương, sinh viên năm 4 tại Đại học HUTECH, đam mê lập trình game và luôn mong muốn nâng cao kỹ năng trong lĩnh vực này. Tôi tạo blog này để chia sẻ kiến thức, dự án và hành trình phát&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Tôi là Trần Huy Phương, sinh viên năm 4 tại Đại học HUTECH, đam mê lập trình game và luôn mong muốn nâng cao kỹ năng trong lĩnh vực này. Tôi tạo blog này để chia sẻ kiến thức, dự án và hành trình phát triển nghề nghiệp trong lập trình game, đồng thời kết nối với cộng đồng và tìm kiếm cơ hội nghề nghiệp.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Chương 9: Phân tán đói tượng trong Java bằng RMI</title>
         <author>
